@@ -1,4 +1,4 @@
-#Blog 
+# Blog 
 
 This is a blog with comments created on Ruby on Rails for learning purposes only 
 
